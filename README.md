@@ -41,8 +41,8 @@ I’m Nasrolla, a Software Engineering student and electrician with a focus on t
 </p>
 
 <p align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=kikoDevv&theme=radical" alt="GitHub Streak" />
+  <!-- Placeholder for other stats -->
+  <img src="https://another-service-link.com/stats" alt="Another GitHub Stat" />
 </p>
 
 ### 📫 Contact links!
