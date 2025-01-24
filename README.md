@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I’m Nasrolla, a Software Engineering student and
   - Frameworks: Express.js, React.js
   - Templating Engines: Pug
   - Databases: MongoDB, PostgreSQL
-  -  •	🏆 Achievement: Developed the iOS app MyBudget, now available on the App Store.
+  -  •	🏆 Achievement: Developed the iOS app MyBudget, available on the App Store.
 
 ---
 
