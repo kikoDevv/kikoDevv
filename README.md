@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm **Nasrolla**, a passionate **Software Engineer
 
 - 🐦 [Twitter](https://twitter.com/your-twitter-handle)
 - 💼 [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
-- ✉️ Email: [kiko.devv@gmail.com]
+- ✉️ Email: [kiko.devv@gmail.com]()
 
 ---
 
