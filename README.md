@@ -10,11 +10,11 @@ Welcome to my GitHub profile! I’m Nasrolla, a Software Engineering student and
 - 🌱 **Learning:** Full-stack development, server-side rendering (SSR), and modern web technologies
 - 🎯 **Goal:** To create impactful software solutions while mastering system development
 - 🛠️ **Tech Stack:**
+🏆 Achievement: Developed the iOS app MyBudget, available on the App Store.
   - Programming: JavaScript, Python and Swift
   - Frameworks: Express.js, React.js
   - Templating Engines: Pug
   - Databases: MongoDB, PostgreSQL
-  -  •	🏆 Achievement: Developed the iOS app MyBudget, available on the App Store.
 
 ---
 
