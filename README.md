@@ -10,6 +10,7 @@ I’m Nasrolla, a Software Engineering student and electrician with a focus on t
 - 🌱 **Learning:** Full-stack development, server-side rendering (SSR), and modern web technologies
 - 🎯 **Goal:** To create impactful software solutions while mastering system development
 - 🏆 Achievement: Developed the iOS app [MyBudget](https://apps.apple.com/tr/app/mybudget/id6446150580/), available on ios [App store](https://apps.apple.com/tr/app/mybudget/id6446150580/).
+- 🏆 Achievement: Created Kino Cinema, a movie and TV show browsing platform, available [here](https://kikodevv.github.io/Cinema/).
 - 🛠️ **Tech Stack:**
   - Programming: JavaScript, Python and Swift
   - Frameworks: Express.js, React.js
