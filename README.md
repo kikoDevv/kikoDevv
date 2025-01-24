@@ -46,9 +46,7 @@ I’m Nasrolla, a Software Engineering student and electrician with a focus on t
 
 ### 📫 Contact links!
 
-- 🐦 [Twitter](https://twitter.com/your-twitter-handle)
-- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
-- ✉️ [kiko.devv@gmail.com]()
+- 🐦 [Twitter](https://twitter.com/your-twitter-handle)   - 💼 [LinkedIn](https://linkedin.com/in/your-linkedin-profile)    - ✉️ [kiko.devv@gmail.com]()
 
 ---
 
