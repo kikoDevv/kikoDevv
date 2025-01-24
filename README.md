@@ -9,7 +9,7 @@ I’m Nasrolla, a Software Engineering student and electrician with a focus on t
 - 📖 **Studying:** Software Engineering at [Lernia](https://www.lernia.se/)
 - 🌱 **Learning:** Full-stack development, server-side rendering (SSR), and modern web technologies
 - 🎯 **Goal:** To create impactful software solutions while mastering system development
-- 🏆 Achievement: Developed the iOS app MyBudget, available on ios App Store.
+- 🏆 Achievement: Developed the iOS app MyBudget, available on ios [App store]([https://www.lernia.se/](https://apps.apple.com/tr/app/mybudget/id6446150580)).
 - 🛠️ **Tech Stack:**
   - Programming: JavaScript, Python and Swift
   - Frameworks: Express.js, React.js
