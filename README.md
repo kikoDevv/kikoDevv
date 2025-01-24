@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I’m Nasrolla, a Software Engineering student and
 - 📖 **Studying:** Software Engineering at [Lernia](https://www.lernia.se/)
 - 🌱 **Learning:** Full-stack development, server-side rendering (SSR), and modern web technologies
 - 🎯 **Goal:** To create impactful software solutions while mastering system development
+-🏆 Achievement: Developed the iOS app MyBudget, available on the App Store.
 - 🛠️ **Tech Stack:**
-🏆 Achievement: Developed the iOS app MyBudget, available on the App Store.
   - Programming: JavaScript, Python and Swift
   - Frameworks: Express.js, React.js
   - Templating Engines: Pug
