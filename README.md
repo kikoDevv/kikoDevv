@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I’m Nasrolla, a Software Engineering student and electrician with a focus on troubleshooting. I’m passionate about technology and dedicated to solving real-world problems through innovative solutions.
+I’m Nasrolla, a Software Engineering student and electrician with a focus on troubleshooting. I’m passionate about technology and dedicated to solving real-world problems through innovative solutions.
 
 ---
 ### 👨‍💻 About Me
