@@ -1,15 +1,15 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm **Nasrolla**, a passionate **Software Engineering student** and a professional in **network infrastructure**. Here's a little about me:
+Welcome to my GitHub profile! I’m Nasrolla, a Software Engineering student and electrician specializing in troubleshooting. Passionate about tech and solving real-world challenges.
 
 ---
-
+🎯 Goal:
 ### 👨‍💻 About Me
 
-- 🌍 **Currently working at:** [Eltel Networks Infranet AB](https://www.eltelnetworks.com/)
+- 💼 **Currently working at:** [Eltel Networks Infranet AB](https://www.eltelnetworks.com/)
 - 📖 **Studying:** Software Engineering at [Lernia](https://www.lernia.se/)
 - 🌱 **Learning:** Full-stack development, server-side rendering (SSR), and modern web technologies
-- 💼 **Goal:** To create impactful software solutions while mastering system development
+- 🎯 **Goal:** To create impactful software solutions while mastering system development
 - 🛠️ **Tech Stack:**
   - Programming: JavaScript, Python
   - Frameworks: Express.js, React.js
