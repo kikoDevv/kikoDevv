@@ -34,8 +34,8 @@ Welcome to my GitHub profile! I'm **Nasrolla**, a passionate **Software Engineer
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Nasrolla's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kikoDevv&show_icons=true&theme=radical" alt="Nasrolla's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kikoDevv&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm **Nasrolla**, a passionate **Software Engineer
 
 - 🐦 [Twitter](https://twitter.com/your-twitter-handle)
 - 💼 [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
-- ✉️ Email: [nasrolla@example.com](mailto:nasrolla@example.com)
+- ✉️ Email: [nasrolla@example.com](kiko.devv@gmail.com)
 
 ---
 
