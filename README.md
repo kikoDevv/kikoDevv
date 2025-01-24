@@ -34,8 +34,15 @@ I’m Nasrolla, a Software Engineering student and electrician with a focus on t
 ---
 
 ### 📊 GitHub Stats
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&preferLogin=true&Border=1A07DD">    <img  alt="kikoDevv's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/kikoDevv?cardType=level&theme=tokyonight&preferLogin=true&Border=1A07DD" />
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=tokyonight&preferLogin=true&Border=1A07DD">    <img  alt="kikoDevv's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/kikoDevv?cardType=level-alternate&theme=tokyonight&preferLogin=true&Border=1A07DD" />  </a>
+
+<p align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&preferLogin=true&Border=1A07DD">
+    <img alt="kikoDevv's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/kikoDevv?cardType=level&theme=tokyonight&preferLogin=true&Border=1A07DD" />
+  </a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=tokyonight&preferLogin=true&Border=1A07DD">
+    <img alt="kikoDevv's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/kikoDevv?cardType=level-alternate&theme=tokyonight&preferLogin=true&Border=1A07DD" />
+  </a>
+</p>
 
 ### 📫 Contact links!
 
