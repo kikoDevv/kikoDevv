@@ -3,7 +3,6 @@
 Welcome to my GitHub profile! I’m Nasrolla, a Software Engineering student and electrician specializing in troubleshooting. Passionate about tech and solving real-world challenges.
 
 ---
-🎯 Goal:
 ### 👨‍💻 About Me
 
 - 💼 **Currently working at:** [Eltel Networks Infranet AB](https://www.eltelnetworks.com/)
