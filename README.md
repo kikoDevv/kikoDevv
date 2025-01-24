@@ -36,11 +36,13 @@ I’m Nasrolla, a Software Engineering student and electrician with a focus on t
 ### 📊 GitHub Stats
 
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=kikoDevv&show_icons=true&theme=radical" alt="Nasrolla's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=kikoDevv">
+  <!-- GitHub Streak Stats -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=kikoDevv&theme=radical" alt="GitHub Streak" />
+  </a>
 </p>
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kikoDevv)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### 📫 Contact links!
