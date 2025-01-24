@@ -36,6 +36,7 @@ I’m Nasrolla, a Software Engineering student and electrician with a focus on t
 ### 📊 GitHub Stats
 
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&preferLogin=false&Border=1000DD">    <img  alt="kikoDevv's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/kikoDevv?cardType=level&theme=github-dark&preferLogin=false&Border=1000DD" />  </a>
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=kikoDevv&layout=compact" />
 
 ### 📫 Contact links!
 
