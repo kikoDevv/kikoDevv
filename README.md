@@ -55,7 +55,7 @@
 - 🌱 **Learning:** Full-stack development, server-side rendering (SSR), and modern web technologies
 - 🎯 **Goal:** To create impactful software solutions while mastering system development
 - 🏆 Achievement: Developed the iOS app [MyBudget](https://apps.apple.com/tr/app/mybudget/id6446150580/), available on ios [App store](https://apps.apple.com/tr/app/mybudget/id6446150580/).
-- 🏆 Achievement: Built Kino Cinema, a movie and TV show browsing platform, live on [GitHub Pages](https://kikodevv.github.io/Cinema/).
+- 🏆 Achievement: Built MovieScout, a movie and TV show browsing platform, live on [GitHub Pages](kikodevv.github.io/MovieScout/).
 - 🏆 Created: Developed the Hacker Scape Room project, an interactive web-based escape room game [here](https://kikodevv.github.io/ESC-DELUXE/).
 
 ---
