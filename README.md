@@ -70,6 +70,23 @@
   <img src="https://img.shields.io/badge/Frontend-React-blue?style=flat-square&logo=react" alt="React" />
   <img src="https://img.shields.io/badge/Template-Pug-red?style=flat-square&logo=pug" alt="Pug" />
 </p>
+
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&preferLogin=true&Border=1A07DD">
+    <img alt="kikoDevv's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/kikoDevv?cardType=level&theme=tokyonight&preferLogin=true&Border=1A07DD" />
+  </a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=tokyonight&preferLogin=true&Border=1A07DD">
+    <img alt="kikoDevv's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/kikoDevv?cardType=level-alternate&theme=tokyonight&preferLogin=true&Border=1A07DD" />
+  </a>
+</p>
+
+
+
 You can contact me through telegram [@kikoDevv](https://t.me/KikoDevv) There, we can discuss on more comfortable contact way with you.
 
 <br/>  
@@ -100,30 +117,4 @@ You can contact me through telegram [@kikoDevv](https://t.me/KikoDevv) There, we
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
-
-
-
-
-
-
-
-
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&preferLogin=true&Border=1A07DD">
-    <img alt="kikoDevv's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/kikoDevv?cardType=level&theme=tokyonight&preferLogin=true&Border=1A07DD" />
-  </a>
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=tokyonight&preferLogin=true&Border=1A07DD">
-    <img alt="kikoDevv's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/kikoDevv?cardType=level-alternate&theme=tokyonight&preferLogin=true&Border=1A07DD" />
-  </a>
-</p>
-
-### 📫 Contact links!
-🐦 [Twitter](https://twitter.com/your-twitter-handle)             💼 [LinkedIn](https://linkedin.com/in/your-linkedin-profile)              ✉️ [kiko.devv@gmail.com]()
-
 🌟 *"Let's code for a better world!"*
