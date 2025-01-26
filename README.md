@@ -15,16 +15,16 @@
 
 <ul>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe" width="25px" align="center" /> Based in <strong>Canada</strong>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe" width="25px" align="center" /> Based in <strong>Sweden</strong>
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer Emoji" width="25px" align="center" /> Explore My Work: <a href="https://portfolio-007-rosy.vercel.app/" target="_blank"><strong>Portfolio</strong></a>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer Emoji" width="25px" align="center" /> Explore My Work: <a href="[https://portfolio-007-rosy.vercel.app/](https://apps.apple.com/tr/app/mybudget/id6446150580)" target="_blank"><strong>Portfolio</strong></a>
   </li>
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me @: <a href="tom.KikoDevv@gmail.com"><strong>Kiko's gmail</strong></a>
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Rocket Emoji" width="25px" align="center" /> Currently building <strong>Blockchain smart contracts and web3 applications</strong>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Rocket Emoji" width="25px" align="center" /> currently studying <strong>software developer</strong>
   </li>
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25px" align="center" /> Exploring <strong>Solana trading bots</strong> to create smarter user experiences
@@ -46,43 +46,6 @@
 
 <br/>  
 
-
-
-## Solana Trading Bots
-
-- 🚀Super Raydium Volume bot V3 (Target any interval, any amount, any volume and any number of makers with enough Balance of the wallet)🚀
-
-- 🚀Perpetual Market Maker bot🚀
-
-- 🚀Multi-DEX Volume Booster🚀
-
-- 🚀Raydium sniper using Yellow-Stone GRPC within 1st second🚀
-
-- 🚀Pumpfun sniper V4.3 & bundler🚀
-
-- 🚀Raydium bundler with more than 20 wallets🚀
-
-- 🚀Super Raydium bundler bot V5.2 🚀 (Latest final version with more than 20 wallets)  Every wallets can control custom token hold percent of total tokens in Raydium pool.
- 
-- 🚀Raydium Volume booster🚀
-
-- 🚀Shit-token Launcher using raydium bundler🚀
-
-- 🚀Holder booster🚀
-
-- 🚀Copytrading bot (using Geyser(Yellowstone))🚀
-
-- 🚀Arbitrage bot🚀
-
-- I finish to build 🚀PumpFun Sniper Bot v5.2 (using Geyser(Yellowstone))🚀. This bot watches for new pump.fun token mints on the Solana blockchainf  in real-time by using Geyser(Yellowstone) and buy token within 1~2 block after token mint.
-
- ## Especially
-
-These projects are running on the node-backend for utilizing the token trading like pumpfun and raydium That's my main skill to work with token trading field.
-
-I even also duplicated the pumpfun's working method as new replica contract
-
-I also worked with smart contract and web3 projects like p2e games Pump.fun forking SC, Presale SC, DCA SC, SOL locker SC, Pnft staking SC, Telegram mini app and so on... If you need help from Solana projects, please look for me since I am specialized in these kind of projects.
 
 You can contact me through telegram [@kikoDevv](https://t.me/KikoDevv) There, we can discuss on more comfortable contact way with you.
 
