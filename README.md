@@ -73,7 +73,7 @@
 
 
 ---
-You can contact me through telegram [@kikoDevv](https://t.me/KikoDevv) There, we can discuss on more comfortable contact way with you.
+🌟 *"Let's code for a better world!"*.
 <br/>  
 <div align="center">
  -------------------------------------------------------------------------------------------
@@ -95,4 +95,3 @@ You can contact me through telegram [@kikoDevv](https://t.me/KikoDevv) There, we
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-🌟 *"Let's code for a better world!"*
