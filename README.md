@@ -73,32 +73,11 @@
 
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&preferLogin=true&Border=1A07DD">
-    <img alt="kikoDevv's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/kikoDevv?cardType=level&theme=tokyonight&preferLogin=true&Border=1A07DD" />
-  </a>
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=tokyonight&preferLogin=true&Border=1A07DD">
-    <img alt="kikoDevv's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/kikoDevv?cardType=level-alternate&theme=tokyonight&preferLogin=true&Border=1A07DD" />
-  </a>
-</p>
-
-
-
 You can contact me through telegram [@kikoDevv](https://t.me/KikoDevv) There, we can discuss on more comfortable contact way with you.
-
 <br/>  
-
-
-
 <div align="center">
  -------------------------------------------------------------------------------------------
 </div>
-
-
-
 <p align="center">
   <a href="mailto:tom.kinddev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
@@ -107,7 +86,6 @@ You can contact me through telegram [@kikoDevv](https://t.me/KikoDevv) There, we
   <a href="https://discordapp.com/users/304228787250528256" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" /></a>
   &nbsp;&nbsp;
 </p>
-
 <div align="center">
  ----------------------------------------------***********----------------------------------------------
 </div>
