@@ -19,34 +19,15 @@
   </li>
 
 
-- 💼 **Currently working at:** [Eltel Networks Infranet AB](https://www.eltelnetworks.com/)
+- 💼 Currently working at [Eltel Networks Infranet AB](https://www.eltelnetworks.com/)
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25px" align="center" /> **Studying:** Software Engineering at [Lernia](https://www.lernia.se/)
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25px" align="center" /> Studying Software Engineering at [Lernia](https://www.lernia.se/)
   </li>
-- 📖 **Studying:** Software Engineering at [Lernia](https://www.lernia.se/)
 - 🌱 **Learning:** Full-stack development, server-side rendering (SSR), and modern web technologies
 - 🎯 **Goal:** To create impactful software solutions while mastering system development
 - 🏆 Achievement: Developed the iOS app [MyBudget](https://apps.apple.com/tr/app/mybudget/id6446150580/), available on ios [App store](https://apps.apple.com/tr/app/mybudget/id6446150580/).
 - 🏆 Achievement: Built MovieScout, a movie and TV show browsing platform, live on [GitHub Pages](https://kikodevv.github.io/MovieScout/).
 - 🏆 Created: Developed the Hacker Scape Room project, an interactive web-based escape room game [here](https://kikodevv.github.io/ESC-DELUXE/).
-
-
-
-
-
-  
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer Emoji" width="25px" align="center" /> Explore My Work: <a href="https://apps.apple.com/tr/app/mybudget/id6446150580" target="_blank"><strong>Ios App</strong></a>
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me: <a href="mailto:tom.kinddev@gmail.com"><strong>Kiko's gmail</strong></a>
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Rocket Emoji" width="25px" align="center" /> currently studying <strong>software developer</strong>
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25px" align="center" /> Exploring <strong>Solana trading bots</strong> to create smarter user experiences
-  </li>
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning Emoji" width="25px" align="center" /> Always diving into <strong>new tech</strong> to stay ahead
   </li>
