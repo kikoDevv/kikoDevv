@@ -17,6 +17,24 @@
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe" width="25px" align="center" /> Based in <strong>Sweden</strong>
   </li>
+
+
+- 💼 **Currently working at:** [Eltel Networks Infranet AB](https://www.eltelnetworks.com/)
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25px" align="center" /> **Studying:** Software Engineering at [Lernia](https://www.lernia.se/)
+  </li>
+- 📖 **Studying:** Software Engineering at [Lernia](https://www.lernia.se/)
+- 🌱 **Learning:** Full-stack development, server-side rendering (SSR), and modern web technologies
+- 🎯 **Goal:** To create impactful software solutions while mastering system development
+- 🏆 Achievement: Developed the iOS app [MyBudget](https://apps.apple.com/tr/app/mybudget/id6446150580/), available on ios [App store](https://apps.apple.com/tr/app/mybudget/id6446150580/).
+- 🏆 Achievement: Built MovieScout, a movie and TV show browsing platform, live on [GitHub Pages](https://kikodevv.github.io/MovieScout/).
+- 🏆 Created: Developed the Hacker Scape Room project, an interactive web-based escape room game [here](https://kikodevv.github.io/ESC-DELUXE/).
+
+
+
+
+
+  
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer Emoji" width="25px" align="center" /> Explore My Work: <a href="https://apps.apple.com/tr/app/mybudget/id6446150580" target="_blank"><strong>Ios App</strong></a>
   </li>
@@ -46,19 +64,6 @@
 
 <br/>  
 
-
----
-### 👨‍💻 About Me
-
-- 💼 **Currently working at:** [Eltel Networks Infranet AB](https://www.eltelnetworks.com/)
-- 📖 **Studying:** Software Engineering at [Lernia](https://www.lernia.se/)
-- 🌱 **Learning:** Full-stack development, server-side rendering (SSR), and modern web technologies
-- 🎯 **Goal:** To create impactful software solutions while mastering system development
-- 🏆 Achievement: Developed the iOS app [MyBudget](https://apps.apple.com/tr/app/mybudget/id6446150580/), available on ios [App store](https://apps.apple.com/tr/app/mybudget/id6446150580/).
-- 🏆 Achievement: Built MovieScout, a movie and TV show browsing platform, live on [GitHub Pages](https://kikodevv.github.io/MovieScout/).
-- 🏆 Created: Developed the Hacker Scape Room project, an interactive web-based escape room game [here](https://kikodevv.github.io/ESC-DELUXE/).
-
----
 
 ### 🔧 Tools & Technologies
 
