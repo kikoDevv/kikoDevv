@@ -26,7 +26,7 @@
 - 🌱 Learning: Full-stack development, SSR, and modern web tech
 - 🎯 **Goal:** To create impactful software solutions while mastering system development
 - 🏆 Achievement: Developed the iOS app [MyBudget](https://apps.apple.com/tr/app/mybudget/id6446150580/), available on ios [App store](https://apps.apple.com/tr/app/mybudget/id6446150580/).
-- 🏆 Achievement: Built MovieScout, a movie and TV show browsing platform: [Visist](https://kikodevv.github.io/MovieScout/).
+- 🏆 Achievement: Built MovieScout, a movie and TV show browsing platform: [Visit](https://kikodevv.github.io/MovieScout/).
 - 🏆 Created: Developed the Hacker Scape Room project, an interactive web-based escape room: [Visit](https://kikodevv.github.io/ESC-DELUXE/).
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning Emoji" width="25px" align="center" /> Always diving into <strong>new tech</strong> to stay ahead
