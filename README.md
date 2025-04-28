@@ -22,7 +22,7 @@
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25px" align="center" /> Studying Software Engineering at Lernia AB
   </li>
-- 🌱 Learning: Full-stack development, SSR, and modern web tech
+- 🌱 Learning: Full-stack development, and modern web tech
 - 🎯 **Goal:** To create impactful software solutions while mastering system development
 - 🏆 Achievement: EasyBudget, ios app Available on the [AppStore](https://apps.apple.com/se/app/easybudget/id6446150580?l=en-GB).
 - 🏆 Achievement: Built MovieScout, a movie and TV show browsing platform: [Visit](https://kikodevv.github.io/MovieScout/).
