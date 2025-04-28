@@ -24,7 +24,7 @@
   </li>
 - 🌱 Learning: Full-stack development, SSR, and modern web tech
 - 🎯 **Goal:** To create impactful software solutions while mastering system development
-- 🏆 Achievement: Developed the iOS app [MyBudget](https://apps.apple.com/tr/app/mybudget/id6446150580/), available on ios [App store](https://apps.apple.com/tr/app/mybudget/id6446150580/).
+- 🏆 Achievement: EasyBudget, ios app Available on the [AppStore](https://apps.apple.com/se/app/easybudget/id6446150580?l=en-GB).
 - 🏆 Achievement: Built MovieScout, a movie and TV show browsing platform: [Visit](https://kikodevv.github.io/MovieScout/).
 - 🏆 Created: Developed the Hacker Scape Room project, an interactive web-based escape room: [Visit](https://kikodevv.github.io/ESC-DELUXE/).
   <li>
