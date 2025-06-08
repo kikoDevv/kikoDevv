@@ -3,49 +3,70 @@
   <img src="https://github.com/user-attachments/assets/0b081080-f36d-4729-af06-f5217e3b096a" alt="GitHub Banner showcasing a professional profile" width="100%">
 </div>
 
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35">&nbsp;
+  Hi, I'm Nasrolla
+  &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35">
+</h1>
 
- <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">&nbsp;Hi, This is Nasrolla.&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" alt="Rocket Emoji"/>
+  <em>Coding like it's 2050, but debugging like it's 1999.</em>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" alt="Rocket Emoji"/>
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineering+Student;Always+Learning+New+Tech;Building+Amazing+Projects" alt="Typing SVG" />
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="35" height="35"> About Me
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="25" height="25">
+  Location: Based in Sweden
 
 <div>
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
 </div>
 
-### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Coding like it’s 2050, but debugging like it’s 1999.</div> 
-
-
-<ul>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe" width="25px" align="center" /> Based in <strong>Sweden</strong>
-  </li>
-  
-- 💼 Currently working at [Eltel Networks Infranet AB](https://www.eltelnetworks.com/)
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25px" align="center" /> Studying Software Engineering at Lernia AB
-  </li>
-- 🌱 Learning: Full-stack development, and modern web tech
-- 🎯 **Goal:** To create impactful software solutions while mastering system development
-- 🏆 Achievement: EasyBudget, ios app Available on the [AppStore](https://apps.apple.com/se/app/easybudget/id6446150580?l=en-GB).
-- 🏆 Achievement: Built MovieScout, a movie and TV show browsing platform: [Visit](https://kikodevv.github.io/MovieScout/).
-- 🏆 Created: Developed the Hacker Scape Room project, an interactive web-based escape room: [Visit](https://kikodevv.github.io/ESC-DELUXE/).
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning Emoji" width="25px" align="center" /> Always diving into <strong>new tech</strong> to stay ahead
-  </li>
-</ul>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="25" height="25"> Current Role: Working [Eltel Networks Infranet AB](https://www.eltelnetworks.com/)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="25" height="25">
+  Education: Studying Software Engineering at Lernia AB
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" width="25" height="25">
+  Learning:Full-stack development and modern web technologies
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="25" height="25">
+  Goal: To create impactful software solutions while mastering system
+  development
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="25" height="25">
+  Passion: Always diving into new tech to stay ahead of the curve
 
 
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br/>  
 
 
-### 🔧 Tools & Technologies
+
+
+
+
+
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35" height="35"> Achievement so far
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="30" height="30"> EasyBudget - iOS App
+
+A comprehensive budgeting application available on the [Ios app Store.](https://apps.apple.com/se/app/easybudget/id6446150580?l=en-GB)
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Movie%20Camera.png" width="30" height="30"> MovieScout
+
+A movie and TV show browsing platform with modern UI/UX [deployed on vercel.](https://movie-scout-rho.vercel.app/)
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Detective%20Medium%20Skin%20Tone.png" width="30" height="30"> GitHub followers manager
+
+An interactive web-based github follower manager [Deployed on vercel](https://github-followers-manager-sigma.vercel.app/)
+
+<br clear="right"/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35" height="35"> Tech Stack & Tools
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat-square&logo=visual-studio-code" alt="VS Code" />
@@ -58,7 +79,7 @@
 
 
 ---
-<br/>  
+<br/>
 <div align="center">
  -----------------------------------*"Let's code for a better world!"*----------------------------------
   </p>
