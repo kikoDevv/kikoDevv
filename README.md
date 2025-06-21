@@ -52,6 +52,10 @@ A comprehensive budgeting application available on the [Ios app Store.](https://
 
 A movie and TV show browsing platform with modern UI/UX [deployed on vercel.](https://movie-scout-rho.vercel.app/)
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Game%20Die.png" alt="Game Die" width="25" height="25" /> Wordle-GPT
+
+A classic wordle game with modern chatGPT inspired UI [deployed on vercel.](https://wordle-gpt.vercel.app/)
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Detective%20Medium%20Skin%20Tone.png" width="30" height="30"> GitHub followers manager
 
 An interactive web-based github follower manager [Deployed on vercel](https://github-followers-manager-sigma.vercel.app/)
