@@ -58,7 +58,7 @@ A classic wordle game with modern chatGPT inspired UI [deployed on vercel.](http
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Detective%20Medium%20Skin%20Tone.png" width="30" height="30"> GitHub followers manager
 
-An interactive web-based github follower manager [Deployed on vercel](https://github-followers-manager-sigma.vercel.app/)
+An interactive web-based github follower manager [Deployed on vercel](https://github-follower-manager.vercel.app/)
 
 <br clear="right"/>
 
