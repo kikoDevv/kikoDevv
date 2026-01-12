@@ -22,13 +22,12 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="25" height="25"> Current Role: Working in [Eltel Networks Infranet AB](https://www.eltelnetworks.com/)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="25" height="25">
   Education: Studying Software Engineering at Lernia AB
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="24" height="24">Goal: To create impactful software solutions while mastering system
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" width="25" height="25">
   Learning:Full-stack development and modern web technologies
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="25" height="25">
-  Goal: To create impactful software solutions while mastering system
   development
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="25" height="25">
-  Passion: Always diving into new tech to stay ahead of the curve
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="24" height="24">Passion: Always diving into new tech to stay ahead of the curve
+ 
 
 
 
@@ -61,6 +60,11 @@ A classic wordle game with modern chatGPT inspired UI [deployed on vercel.](http
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Detective%20Medium%20Skin%20Tone.png" width="30" height="30"> GitHub followers manager
 
 An interactive web-based github follower manager [Deployed on vercel](https://github-follower-manager.vercel.app/)
+
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37b/512.gif" alt="🍻" width="32" height="32"> Visti my portfolio
+
+I’m always working on new ideas that might not be listed here yet. [Check out my portfolio for more!](https://nasrolla-portfolio.vercel.app/)
+ 
 
 <br clear="right"/>
 
