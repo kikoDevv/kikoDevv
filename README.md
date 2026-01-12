@@ -61,7 +61,7 @@ A classic wordle game with modern chatGPT inspired UI [deployed on vercel.](http
 
 An interactive web-based github follower manager [Deployed on vercel](https://github-follower-manager.vercel.app/)
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37b/512.gif" alt="🍻" width="32" height="32"> Visti my portfolio
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37b/512.gif" alt="🍻" width="32" height="32"> Visit my portfolio
 
 I’m always working on new ideas that might not be listed here yet. [Check out my portfolio for more!](https://nasrolla-portfolio.vercel.app/)
  
